@@ -5,4 +5,5 @@ My project consists of a 3-stage motion sensing circuit. The 1st stage was the s
 - A door alarm.
 - An alarm on a car to make sure it doesn't come close enough to something else.
 - Perimeter alarms.
+
 There are several things you could use this for.
