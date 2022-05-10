@@ -3,7 +3,7 @@
 - [Motion Sensor](https://www.componentsinfo.com/hc-sr501-module-pinout-datasheet/)
 - LED
 - 220 Ω
-- Buzzer
+- Piezo Buzzer
 
 ## Description:
 At this stage, the device's function is complete. In addition to the light added at the second stage, there is a buzzer that now buzzes if sensor is tripped. If whatever triggered it leaves the range, then the buzzer will stop. It plays a normal, [middle C](https://en.wikipedia.org/wiki/C_(musical_note)#Middle_C) tone.
